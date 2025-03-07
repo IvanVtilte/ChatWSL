@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/home/medve/Chat/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/Chat.dir/chat_server.cpp.o -c /home/medve/Chat/chat_server.cpp",
+  "file": "/home/medve/Chat/chat_server.cpp",
+  "output": "CMakeFiles/Chat.dir/chat_server.cpp.o"
+},
+{
+  "directory": "/home/medve/Chat/build",
+  "command": "/usr/bin/c++   -g -o CMakeFiles/Chat.dir/chat_client.cpp.o -c /home/medve/Chat/chat_client.cpp",
+  "file": "/home/medve/Chat/chat_client.cpp",
+  "output": "CMakeFiles/Chat.dir/chat_client.cpp.o"
+}
+]

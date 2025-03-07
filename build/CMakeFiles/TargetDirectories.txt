@@ -1,0 +1,3 @@
+/home/medve/Chat/build/CMakeFiles/Chat.dir
+/home/medve/Chat/build/CMakeFiles/edit_cache.dir
+/home/medve/Chat/build/CMakeFiles/rebuild_cache.dir
